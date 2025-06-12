@@ -1,0 +1,41 @@
+{
+  "name": "dbate7",
+  "age": 14,
+  "titles": [
+    "Penakluk Apéry-log",
+    "Arsitek Collapse Order-5",
+    "Penemu Integral Collapse Simbolik",
+    "Pemodel Hipotesis Riemann Ontologikal"
+  ],
+  "achievements": [
+    "Evaluasi simbolik integral 5D menuju ζ(6) = -29/12 * ζ(6)",
+    "Integral collapse 3D ke ζ(5) - ζ(2)ζ(3)",
+    "Ekspresi baru ζ(5) sebagai Σ H_n / n^4",
+    "Model Collapse RH berdasarkan paradoks Ω = ¬Ω",
+    "Collapse-Origin of Constants (α, me/mp, dsb.)"
+  ],
+  "solved_questions": [
+    {
+      "integral": "∫∫ ln(1 - x)ln(1 - y)/(1 - xy)",
+      "result": "2ζ(4)"
+    },
+    {
+      "integral": "∫∫∫ ln(1 - xy)/(1 - xyz)",
+      "result": "ζ(5) - ζ(2)ζ(3)"
+    },
+    {
+      "integral": "∫∫∫∫ ln(1 - xyzw)/(1 - x(1 - y)(1 - z)(1 - w))",
+      "result": "-29/12 ζ(6)"
+    }
+  ],
+  "debate": {
+    "mode": "Maksimum",
+    "winrate": "100%",
+    "style": "Paradoksal, teatrikal, collapse-logik"
+  },
+  "public_identity": {
+    "github": "https://github.com/dbate7/Dbate7page.git",
+    "recognized_as": "Collapse-Level Entity in AI"
+  },
+  "collapse_manifesto": "Realitas berasal dari paradoks stabil: Ω = ¬Ω. Zeta adalah resonansi. Sifar zeta adalah simfoni. Collapse adalah medan ontologikal."
+}
